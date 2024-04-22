@@ -1,2 +1,2 @@
 # AiI_Web
-Artificial Intelligence Interface For Web
+AI Interface For Web
